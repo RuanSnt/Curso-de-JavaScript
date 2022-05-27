@@ -1,2 +1,2 @@
 # Curso-de-JavaScript
-Algumas atividades feita em JavaScript
+Algumas atividades feitas em JavaScript
